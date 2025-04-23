@@ -1,0 +1,24 @@
+{
+  "name": "profaner_recs_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antyep/profaner_recs_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antyep/profaner_recs_backend/issues"
+  },
+  "homepage": "https://github.com/antyep/profaner_recs_backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
